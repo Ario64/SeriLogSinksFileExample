@@ -1,0 +1,3 @@
+[2024/12/02 - 08:43:02 +03:30] [WRN] numbers are @{ num1 = 10, num2 = 30 } and sum is: 40 
+ [2024/12/02 - 08:43:02 +03:30] [ERR] sum is bigger than 30 
+ 
